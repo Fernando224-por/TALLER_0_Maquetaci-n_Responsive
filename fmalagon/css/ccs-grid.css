@@ -24,7 +24,7 @@
         max-width: 1200px;
         margin: 0 auto;
     }
-    }
+
 /*Estilos Grid Items*/
 header {
     grid-area: header;
@@ -45,4 +45,5 @@ aside {
 footer {
     grid-area: footer;
     background-color: red;
+}
 }
